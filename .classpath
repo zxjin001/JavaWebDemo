@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/mysql-connector-java-5.1.42.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="webApp/WEB-INF/lib/druid-1.1.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="webApp/WEB-INF/classes"/>
+</classpath>
